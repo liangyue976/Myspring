@@ -7,6 +7,7 @@ public class gittest {
         System.out.println("git2 提交的代码");
         System.out.println("git" + "再次提交");
 
+        System.out.println("git 4 未更新提交");
         System.out.println("git 3未更新提交");
 
     }
