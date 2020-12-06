@@ -6,5 +6,7 @@ public class gittest {
         System.out.println("git 1 提交的代码");
         System.out.println("git2 提交的代码");
         System.out.println("git" + "再次提交");
+
+        System.out.println("git 1 未更新提交");
     }
 }
